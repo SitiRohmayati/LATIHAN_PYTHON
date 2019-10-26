@@ -70,7 +70,7 @@ sh
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/56973033/67626522-99b33a00-f876-11e9-87a2-49165e1664d6.png)
 
-15. Lalu ketikan perintah "git remote add [url] " contoh "git remote add origin https://github.com/SitiRohmayati/LATIHAN_PYTHON.git"
+15. Lalu ketikan perintah "git remote add origin [url] " contoh "git remote add origin https://github.com/SitiRohmayati/LATIHAN_PYTHON.git"
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/56973033/67626570-1cd49000-f877-11e9-89cb-c7471f73e335.png)
 
