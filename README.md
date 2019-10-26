@@ -66,7 +66,7 @@ sh
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/56973033/67626457-da5e8380-f875-11e9-9b42-1bb858ebd282.png)
 
-14. Masuk lagi ke wesite github lalu masuk ke repository yang sebelumnya di buat pada bagian quick setup terdapat url github kita, url ini nantinya akan digunakan pada perintah "git remote add origin [url]" dan perintah git clone "git clone [url]"
+14. Masuk lagi ke wesite github lalu masuk ke repository yang sebelumnya di buat pada bagian quick setup terdapat url github kita, url ini nantinya akan digunakan pada perintah "git remote add origin [url]" dan perintah git clone "git clone [url]" contoh "git remote add origin https://github.com/SitiRohmayati/LATIHAN_PYTHON.git"
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/56973033/67626522-99b33a00-f876-11e9-87a2-49165e1664d6.png)
 
