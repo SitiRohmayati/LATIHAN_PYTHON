@@ -1,5 +1,5 @@
 
-Langkah-langkah Membuat Repository dan Repository Pada Github serta Membuat File README.md
+Langkah-langkah Membuat Repository Lokal dan Repository Pada Github serta Membuat File README.md
 
 Yang harus di lakukan adalah :
 
